@@ -1,2 +1,4 @@
-# python-challenge
-UNC Python Challenge
+## python-challenge
+UNC Python Challenge 
+
+# Learning Goals
