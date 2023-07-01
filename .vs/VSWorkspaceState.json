@@ -2,11 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\PyBank",
-    "\\PyBank\\Analysis",
-    "\\PyBank\\Resources",
-    "\\PyPoll",
-    "\\PyPoll\\Analysis"
+    "\\PyPoll"
   ],
-  "SelectedNode": "\\PyPoll\\main.py",
+  "SelectedNode": "\\PyBank\\main.py",
   "PreviewInSolutionExplorer": false
 }
