@@ -68,6 +68,6 @@ with open(csvpath,encoding= 'utf') as csvfile:
 
     '''
 print(output)
-csvpath = os.path.join('Analysis', 'Financial_Analysis.txt')
+csvpath = os.path.join('Analysis','Financial_Analysis.txt')
 with open(csvpath,'w') as textfile:
     textfile.write(output)
