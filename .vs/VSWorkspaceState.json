@@ -3,8 +3,10 @@
     "",
     "\\PyBank",
     "\\PyBank\\Analysis",
-    "\\PyPoll"
+    "\\PyBank\\Resources",
+    "\\PyPoll",
+    "\\PyPoll\\Analysis"
   ],
-  "SelectedNode": "\\PyBank\\main.py",
+  "SelectedNode": "\\PyPoll\\main.py",
   "PreviewInSolutionExplorer": false
 }
