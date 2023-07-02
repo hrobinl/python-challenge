@@ -1,7 +1,7 @@
 ## python-challenge
 UNC Python Challenge for Reading CSV Files and extracting data from PyPoll and PyBank files.
 
-#  Learning Pre-Objectives/Goals
+# Learning Pre-Objectives/Goals
 Created new repository for this project called python-challenge.
 Cloned the new repository to my computer sucessfully.
 Inside this local Git repository, a folder was created for each Python assignment- PyBank and PyPoll with a new file named main.py
@@ -11,7 +11,7 @@ Lastly an Analysis folder contains the returned results.
 
 
 
-# ***PyBank Instructions***
+# PyBank Instructions
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. 
 You will be given a financial dataset called budget_data.csv. 
 The dataset is composed of two columns: "Date" and "Profit/Losses".
@@ -25,17 +25,21 @@ Your analysis should align with the following results:
 
 Financial Analysis
 ----------------------------
-Total Months: 86 
+Total Months: 86
+
 Total: $22564198 
+
 Average Change: $-8311.11 
+
 Greatest Increase in Profits: Aug-16 ($1862002) 
+
 Greatest Decrease in Profits: Feb-14 ($-1825558) 
 
 #  In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
 
 
-#  ***PyPoll Instructions***
+# PyPoll Instructions
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
 You will be given a set of poll data called election_data.csv. 
 The dataset is composed of three columns: 
@@ -49,18 +53,24 @@ Your task is to create a Python script that analyzes the votes and calculates ea
 
 
 Your analysis should align with the following results:
-Election Results
 -------------------------
+Election Results
+
 Total Votes: 369711
+
 -------------------------
 Charles Casper Stockham: 23.049% (85213)
+
 Diana DeGette: 73.812% (272892)
+
 Raymon Anthony Doane: 3.139% (11606)
+
 -------------------------
+
 Winner: Diana DeGette
 -------------------------
 
-#  In addition, your final script should both print the analysis to the terminal and export a text file with the results.**
+# In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
 Consider what you've learned so far. You've learned how to import modules like csv. You’ve learned how to read and write 
 files in various formats. You’ve learned how to store content in variables, lists, and dictionaries. 
